@@ -1,0 +1,39 @@
+body {
+    background-color: #eeeeee;
+}
+
+.btn {
+    color: #ffffff;
+    background-color: #333333;
+    padding: 5px 15px;
+    border-radius: 4px;
+}
+
+.error-msg {
+    color: red;
+}
+
+.well {
+    width: 60%;
+    margin: auto;
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 4px;
+}
+
+.row {
+    display: flex;
+}
+
+.row .col {
+    float: left;
+    width: 20%;
+}
+
+.form-group {
+    padding-top: 5px;
+}
+
+.form-group label {
+    margin-right: 5px;
+}

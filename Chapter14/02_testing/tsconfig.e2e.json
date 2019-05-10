@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/"
+  },
+  "extends": "./tsconfig",
+  "include": [
+    "test/*.e2e.ts",
+    "src/backend/*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

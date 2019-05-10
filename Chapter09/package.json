@@ -1,0 +1,39 @@
+{
+  "name": "chapter_09",
+  "version": "1.0.0",
+  "description": "Learning TypeScript: Chapter 09 Source code",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run lint & npm run nyc",
+    "ts-node": "ts-node ./src/main_server.ts",
+    "lint": "tslint --project tsconfig.json -c tslint.json ./**/*.ts",
+    "nyc": "nyc --clean --all -x webpack.config.js -x public -x dist -x globals.js --require ts-node/register --extension .ts -- mocha --timeout 5000 **/*.test.ts"
+  },
+  "keywords": [],
+  "author": "Remo H. Jansen <remo.jansen@wolksoftware.com> (http://www.remojansen.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chai": "4.1.0",
+    "@types/mocha": "2.2.46",
+    "awesome-typescript-loader": "3.4.1",
+    "chai": "4.1.2",
+    "css-loader": "0.28.8",
+    "extract-text-webpack-plugin": "3.0.2",
+    "gulp": "3.9.1",
+    "gulp-tslint": "8.1.2",
+    "mocha": "4.1.0",
+    "node-sass": "4.7.2",
+    "nyc": "11.4.1",
+    "resolve-url-loader": "2.2.1",
+    "sass-loader": "6.0.6",
+    "style-loader": "0.19.1",
+    "ts-node": "5.0.1",
+    "tslint": "5.9.1",
+    "typescript": "2.8.1",
+    "webpack": "3.10.0",
+    "webpack-dev-server": "2.11.0"
+  },
+  "dependencies": {
+    "chalk": "2.3.0"
+  }
+}

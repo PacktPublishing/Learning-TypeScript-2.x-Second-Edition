@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "types": [
+      "reflect-metadata"
+    ],
+    "lib": [
+      "es2015.promise",
+      "dom", 
+      "es5",
+      "es2015.generator",
+      "es2015.iterable",
+      "esnext.asynciterable",
+      "es6",
+      "es2015.symbol"
+    ],
+    "downlevelIteration": true,
+    "strict": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "jsx": "react"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "learning-typescript",
+  "version": "1.0.0",
+  "description": "Source code of Learning TypeScript published by Packt Publishing",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node ./test/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remojansen/LearningTypeScript.git"
+  },
+  "keywords": [],
+  "author": "Remo H. Jansen <remo.jansen@wolksoftware.com> (http://www.remojansen.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/remojansen/LearningTypeScript/issues"
+  },
+  "homepage": "https://github.com/remojansen/LearningTypeScript#readme",
+  "devDependencies": {
+    "@types/ramda": "0.25.21",
+    "@types/requirejs": "2.1.31",
+    "chalk": "2.3.2",
+    "ts-node": "5.0.1",
+    "ts-simple-ast": "10.2.0",
+    "typescript": "2.8.1"
+  },
+  "dependencies": {
+    "immutable": "3.8.2",
+    "inversify": "4.11.1",
+    "ramda": "0.25.0",
+    "reflect-metadata": "0.1.12"
+  }
+}

@@ -1,8 +1,8 @@
-# Learning TypeScript 2.x - Second-Edition
+# Learning TypeScript 2.x - Second Edition
 
-<a href="https://www.packtpub.com/application-development/learning-typescript-2x-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788391474"><img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B08005_cover.png" alt="Learning TypeScript 2.x - Second-Edition" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/application-development/learning-typescript-2x-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788391474"><img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B08005_cover.png" alt="Learning TypeScript 2.x - Second Edition" height="256px" align="right"></a>
 
-This is the code repository for [Learning TypeScript 2.x - Second-Edition](https://www.packtpub.com/application-development/learning-typescript-2x-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788391474), published by Packt.
+This is the code repository for [Learning TypeScript 2.x - Second Edition](https://www.packtpub.com/application-development/learning-typescript-2x-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788391474), published by Packt.
 
 **Develop and maintain captivating web applications with ease**
 

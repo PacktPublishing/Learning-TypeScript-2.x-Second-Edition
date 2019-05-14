@@ -51,14 +51,14 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * TypeScript High Performance [[Packt]](https://www.packtpub.com/application-development/typescript-high-performance?utm_source=github&utm_medium=repository&utm_campaign=9781785288647) [[Amazon]](https://www.amazon.com/dp/1785288644)
 
-## Get to Know the Author(s)
+## Get to Know the Author
 **Remo H. Jansen**
 is originally from Seville, Spain, but he currently lives in Dublin, Ireland, where he works as a web engineer at Stellwagen Technology and as a part-time lecturer at CCT College Dublin.
 
 Remo is a Microsoft MVP and an active member of the TS community. He organizes the Dublin TypeScript and Dublin OSS meetups, writes a blog, and maintains InversifyJS on GitHub.
 
 
-## Other books by the authors
+## Other books by the author
 * [TypeScript: Modern JavaScript Development](https://www.packtpub.com/application-development/typescript-modern-javascript-development?utm_source=github&utm_medium=repository&utm_campaign=9781787289086)
 * [Learning TypeScript](https://www.packtpub.com/web-development/learning-typescript?utm_source=github&utm_medium=repository&utm_campaign=9781783985548)
 * [Hands-On Functional Programming with TypeScript](https://www.packtpub.com/application-development/hands-functional-programming-typescript?utm_source=github&utm_medium=repository&utm_campaign=9781788831437)
